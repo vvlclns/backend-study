@@ -29,4 +29,4 @@ async function findJsFiles(directory) {
     }
 }
 
-findJsFiles('test');
+findJsFiles('./test');
